@@ -1,0 +1,60 @@
+Repo,URL,Maintainers,Alive,Comment,Post_comment
+equinix-metal-builders,https://github.com/NixOS/equinix-metal-builders,infra,Yes,,
+experimental-nix-installer,https://github.com/NixOS/experimental-nix-installer,Installer workgroup,Yes,,
+flake-registry,https://github.com/NixOS/flake-registry,Nix,Yes,,
+foundation,https://github.com/NixOS/foundation,Foundation board,Yes,,
+hackage-db,https://github.com/NixOS/hackage-db,X,No,To archive,Yes
+hydra,https://github.com/NixOS/hydra,?,Yes,Need maintainers,Yes
+hydra-ant-logger,https://github.com/NixOS/hydra-ant-logger,No,No,To archive,Yes
+hydra-provisioner,https://github.com/NixOS/hydra-provisioner,Eelco,?,Ask for status,Yes
+jailbreak-cabal,https://github.com/NixOS/jailbreak-cabal,?,Yes,Ask for status,Yes
+language-nix,https://github.com/NixOS/language-nix,No,No,To archive,Yes
+mobile-nixos,https://github.com/NixOS/mobile-nixos,NixOS-mobile,Yes,,
+mobile-nixos-website,https://github.com/NixOS/mobile-nixos-website,NixOS-mobile,Yes,,
+moderation,https://github.com/NixOS/moderation,Moderation,Yes,,
+mvn2nix-maven-plugin,https://github.com/NixOS/mvn2nix-maven-plugin,?,No,Ask for status,Yes
+nix,https://github.com/NixOS/nix,Nix,Yes,,
+nix-book,https://github.com/NixOS/nix-book,Doc team,No,To archive,Yes
+nix-eclipse,https://github.com/NixOS/nix-eclipse,X,No,To archive,Yes
+nix-idea,https://github.com/NixOS/nix-idea,?,Yes,,
+nix-mode,https://github.com/NixOS/nix-mode,?,Yes,,
+nix-pills,https://github.com/NixOS/nix-pills,Doc,Yes,,
+nix.dev,https://github.com/NixOS/nix.dev,Doc,Yes,,
+nixops,https://github.com/NixOS/nixops,X,No,To archive,
+nixops-aws,https://github.com/NixOS/nixops-aws,X,No,To archive,Yes
+nixops-dashboard,https://github.com/NixOS/nixops-dashboard,X,No,To archive,Yes
+nixops-hetzner,https://github.com/NixOS/nixops-hetzner,X,No,To archive,Yes
+nixos,https://github.com/NixOS/nixos,X,No,Archived,
+nixos-artwork,https://github.com/NixOS/nixos-artwork,?,Yes,,
+nixos-channel-scripts,https://github.com/NixOS/nixos-channel-scripts,Infra?,Yes,,
+nixos-common-styles,https://github.com/NixOS/nixos-common-styles,Marketing,Yes,,
+nixos-foundation-private,https://github.com/NixOS/nixos-foundation-private,Foundation board,No,To archive,Yes
+nixos-hardware,https://github.com/NixOS/nixos-hardware,Nixpkgs?,Yes,,
+nixos-homepage,https://github.com/NixOS/nixos-homepage,Marketing,Yes,,
+nixos-metrics,https://github.com/NixOS/nixos-metrics,Marketing?,Yes-ish,,
+nixos-org-configurations,https://github.com/NixOS/nixos-org-configurations,Infra,Yes,,
+nixos-planet,https://github.com/NixOS/nixos-planet,Marketing,No,To archive,Yes
+nixos-search,https://github.com/NixOS/nixos-search,Marketing,Yes,,
+nixos-status,https://github.com/NixOS/nixos-status,Infra,Yes,,
+nixos-summer,https://github.com/NixOS/nixos-summer,X,No,To archive,Yes
+nixos-weekly,https://github.com/NixOS/nixos-weekly,Marketing?,No,To archive (or revive),Yes
+nixpart,https://github.com/NixOS/nixpart,X,No,To archive,Yes
+nixpkgs,https://github.com/NixOS/nixpkgs,Nixpkgs,Yes,,
+nixpkgs-channels,https://github.com/NixOS/nixpkgs-channels,Nixpkgs,Yes,,
+nixpkgs-merge-bot,https://github.com/NixOS/nixpkgs-merge-bot,?,Yes,Move to nix-community?,
+npm2nix,https://github.com/NixOS/npm2nix,X,No,To archive,Yes
+ofborg,https://github.com/NixOS/ofborg,Infra?,Yes,,
+package-list,https://github.com/NixOS/package-list,No,No,To archive,Yes
+pass,https://github.com/NixOS/pass,?,No,To archive (superseded by bitwarden),Yes
+patchelf,https://github.com/NixOS/patchelf,?,Yes,Clarify maintainers,
+release-wiki,https://github.com/NixOS/release-wiki,NixOS RL,Yes,,
+reproducible.nixos.org,https://github.com/NixOS/reproducible.nixos.org,Reproducibility? (@raboof @raitobezarius),Yes,,
+rfc-steering-committee,https://github.com/NixOS/rfc-steering-committee,RFC,Yes,,
+rfc39,https://github.com/NixOS/rfc39,?,?,Clarify status,
+rfc39-record,https://github.com/NixOS/rfc39-record,?,?,Clarify status,
+rfcs,https://github.com/NixOS/rfcs,RFC,Yes,,
+security,https://github.com/NixOS/security,?,No?,Clarify status,Yes
+snapd-nix-base,https://github.com/NixOS/snapd-nix-base,X,No,To archive,Yes
+systemd,https://github.com/NixOS/systemd,X,No,Archived,
+templates,https://github.com/NixOS/templates,Nix?,Yes,Clarify maintenance,
+whats-new-in-nix,https://github.com/NixOS/whats-new-in-nix,Marketing,?,,
